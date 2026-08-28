@@ -1,0 +1,2 @@
+# kanzyutest
+script untuk game
